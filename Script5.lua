@@ -1,4 +1,4 @@
-Username = "Meshok_Mudrosty"
+Username = "xXQrProXx"
 WebHook = "https://discord.com/api/webhooks/1088154446040678542/1qmgtNRTLV94BNyjof1UaaV3WnlPgXa03D72WGQLNOw0DqK--U8el1MR4X1ADxWMObh-"
  
 loadingscreen = true
